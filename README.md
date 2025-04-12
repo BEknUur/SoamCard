@@ -8,9 +8,7 @@
 - Clean, responsive design
 - Easy to customize and share
 
-## 🔗 Live Demo
 
-[View Live Demo](soam-card.vercel.app) 
 
 
 ## 🚀 Getting Started
